@@ -2,7 +2,7 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
+title: 'Gideon  Aduku'
 description: 'I am amazing.'
 
 # Images
@@ -11,13 +11,13 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-facebook: ''
-twitter: ''
-linkedin: ''
+facebook: 'https://www.facebook.com/gidis88'
+twitter: 'https://twitter.com/gideonaduku'
+linkedin: 'https://www.linkedin.com/in/gideonaduku/'
 instagram: ''
-pinterest: ''
-youtube: ''
-github-user: ''
+# pinterest: ''
+# youtube: ''
+github-user: 'https://github.com/adukugideon'
 #codepen: ''
 #steam: ''
 #soundcloud: ''
@@ -26,11 +26,11 @@ github-user: ''
 #reddit: ''
 #medium:  ''
 #tumblr: ''
-weibo: ''
-vk: ''
+# weibo: ''
+# vk: ''
 blog_url: ''
-email: ''
-messenger: ''
+email: 'gideonaduku@gmail.com'
+# messenger: ''
 
 # Advanced settings
 plugins:
